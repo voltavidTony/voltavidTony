@@ -30,7 +30,7 @@
     <img align="left" alt="C#" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
     <img align="left" alt="Java" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
     <img align="left" alt="Python" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img alt="Minecraft Commands" height="36px" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/76/Impulse_Command_Block.gif" />
+    <img alt="Minecraft Commands" height="36px" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/76/Impulse_Command_Block.gif/revision/latest" />
 </a></div>
 
 ### Future Languages
