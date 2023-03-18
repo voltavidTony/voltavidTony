@@ -1,10 +1,7 @@
 ## Hi there, I'm νοιτα_Tony (aka voltavidTony) 👋
 
 ### About me:
-- 🔭 I’m currently working on
-    - [ASCII](https://github.com/voltavidTony/ASCII)
-    - [HTML-Pagebreak](https://github.com/voltavidTony/HTML-Pagebreak)
-    - [verilog-formatter-vscode](https://github.com/voltavidTony/verilog-formatter-vscode)
+- 🔭 I’m currently looking for a new project to work on
 - 🌱 I’m currently learning many computery things 🙃
 - 📫 How to reach me: [anthonyplugins@gmail.com](mailto:anthonyplugins@gmail.com)
 - 😄 Pronouns: he/him
@@ -15,7 +12,6 @@
 <div style="background-color: white; width: fit-content; padding: 5px; border-radius: 5px"><a href="#">
     <img align="left" alt="Bash" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
     <img align="left" alt="PowerShell" height="36px" style="margin-right: 20px" src="https://docs.microsoft.com/en-us/powershell/media/index/powershell_128.svg" />
-    <img align="left" alt="Sublime Text" height="36px" style="margin-right: 20px" src="https://www.sublimehq.com/images/sublime_text.png" />
     <img align="left" alt="IntelliJ" height="36px" style="margin-right: 20px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
     <img align="left" alt="Visual Studio" height="36px" style="margin-right: 20px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
     <img align="left" alt="Visual Studio Code" height="36px" style="margin-right: 20px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" />
@@ -36,8 +32,8 @@
 ### Future Languages
 
 <div style="background-color: white; width: fit-content; padding: 5px; border-radius: 5px"><a href="#">
-    <img align="left" alt="CSS 3" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="left" alt="JavaScript" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="left" alt="HTML" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img align="left" alt="CSS 3" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     <img align="left" alt="JavaScript" height="36px" style="margin-right: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img alt="TypeScript" height="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </a></div>
